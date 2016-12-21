@@ -1,7 +1,7 @@
 #!/bin/sh
 # System + MySQL backup script
 # Saddam ZEMMALI 
-# Bilog
+# IT Infrastructure Engineer
 # ---------------------------------------------------------------------
 
 #########################
